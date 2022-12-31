@@ -1,1 +1,39 @@
-
+{
+  "data": [
+    {
+      "id": "5eb18926-2ea4-44cb-8c2b-18cf85b040c4",
+      "name": "Mario",
+      "lastname": "Gutiérrez",
+      "email": "email@email.com",
+      "img": "https://res.cloudinary.com/greenie/image/upload/v1629835274/jtd8tvgfq5yp3fcii3mr.png"
+    },
+    {
+      "id": "ebdb5ceb-73a1-49de-9555-84d482ab1b56",
+      "name": "Jonathan",
+      "lastname": "Lozano",
+      "email": "email@email.com",
+      "img": "https://res.cloudinary.com/greenie/image/upload/v1624176667/zvzwsfnpny4shhyqstaz.png"
+    },
+    {
+      "id": "382d1a60-2401-4e3b-b688-0753de4212bd",
+      "name": "Diego",
+      "lastname": "Ahumada",
+      "email": "email@email.com",
+      "img": "https://res.cloudinary.com/greenie/image/upload/v1621835659/samples/people/smiling-man.jpg"
+    },
+    {
+      "id": "4443a410-9fe3-4c79-bd18-e87876bbbd3f",
+      "name": "Roberto",
+      "lastname": "Ploneda",
+      "email": "email@email.com",
+      "img": "https://res.cloudinary.com/greenie/image/upload/v1621835658/samples/people/kitchen-bar.jpg"
+    },
+    {
+      "id": "0cf06e1f-3de2-416e-abbb-2f172beaae83",
+      "name": "Sergio",
+      "lastname": "Diaz",
+      "email": "email@email.com",
+      "img": "https://res.cloudinary.com/greenie/image/upload/v1621835657/samples/animals/cat.jpg"
+    }
+  ]
+}
